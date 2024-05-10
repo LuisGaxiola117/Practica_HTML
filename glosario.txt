@@ -1,3 +1,4 @@
 Push: subir los cambios 
 Pull: Vajar los cambios
 Commit: Comprometer indicarle al control que cambios son definitivos
+Esta interesante el como funciona git hub.
